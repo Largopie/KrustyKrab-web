@@ -1,0 +1,46 @@
+
+footer {
+    background-color: #815B43;
+    color: white;
+    height: 40vh;
+}
+#ftop {
+    text-align: right;
+    padding-bottom: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+#fmain{
+    width: 85%;
+    margin-left: 20px;
+    float: left;
+}
+
+#fmain > h6{
+    padding-bottom: 8px;
+}
+
+#service {
+    text-align: right;
+}
+
+#service > button {
+    margin-right: 30px;
+    margin-bottom: 30px;
+    float: left;
+}
+
+.ftaga{
+    text-decoration: none;
+    color: white;
+}
+
+#servicecenterbtn{
+    border-radius: 30px;
+    background-color: #C6371E;
+    color: white;
+    border: none;
+    font-size: 30px;
+    padding: 5px 20px 5px 20px;
+}
