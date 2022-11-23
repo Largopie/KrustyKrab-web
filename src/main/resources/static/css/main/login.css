@@ -1,4 +1,5 @@
 #member {
+    margin-top: 10px;
     background-color: white;
 	text-align: right;
     width: 100%;
@@ -7,5 +8,8 @@
 
 #member > a{
     margin-right: 15px;
-    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #C6371E;
+    color: white;
 }
